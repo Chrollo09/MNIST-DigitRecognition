@@ -1,2 +1,3 @@
 # MNIST-DigitRecognition
-This project aims to recognise digits from the MNIST dataset without using in-built ML libraries like TensorFlow and OpenCV. The deep learning model was built just by using numpy, pandas and matplotlib libraries.
+This repository showcases a machine learning project that focuses on recognizing handwritten digits from the MNIST dataset. By leveraging the power of NumPy and Pandas, popular Python libraries for numerical computing and data manipulation, this project develops an accurate digit classification model.
+The code and documentation provide insights into data preprocessing, feature engineering, model training, and evaluation. Explore this repository to learn about implementing machine learning algorithms using only NumPy and Pandas, and tackle the task of digit recognition with minimalistic code.
